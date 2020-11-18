@@ -37,8 +37,8 @@
 
 During a battle against the infamous Chalzard, Poseidon protector of the ocean fainted.
 
-The diabolic Chalzard take is plan to execution, cover the world in water by sealing the sink of the world with of a cursed cork.
-![Cursed Cork](../images/cursed_cork_throne.png)
+The diabolic Chalzard take is plan to execution, cover the world in water by sealing the sink of the world with a cursed cork.
+![Cursed Cork](https://i.ibb.co/PzpDh8k/cursed-cork-throne.png)
 
 This terrible year got renamed the year 0 AP ( After Poseidon ) by the citizen of the world.
 The army of the cursed Chalzard almost killed all mankind.
