@@ -36,6 +36,7 @@
 ### <u>**c. Plot and setting**</u>
 
 During a battle against the infamous Chalzard, Poseidon protector of the ocean fainted.
+![Chalzard](https://static.wikia.nocookie.net/gameofthrones/images/6/60/H%26L_The_Old_Way.png/revision/latest/scale-to-width-down/1000?cb=20161118184241)
 
 The diabolic Chalzard take is plan to execution, cover the world in water by sealing the sink of the world with a cursed cork.
 ![Cursed Cork](https://i.ibb.co/PzpDh8k/cursed-cork-throne.png)
