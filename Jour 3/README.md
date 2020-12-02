@@ -27,11 +27,11 @@
 
  - Hades ( AD )
    - Artistic direction for the game
-<img src="https://veuillezparlapresente.com/wp-content/uploads/2018/12/Diesel_product_min_gallery_Hades_Tartarus_Gallery_1920x1080_00-2580x1450-d1621922b8ebb2945e7528e2344aaf88034b5ba1.jpg" name="Opus Magnum" width="60%">
+  <img src="https://veuillezparlapresente.com/wp-content/uploads/2018/12/Diesel_product_min_gallery_Hades_Tartarus_Gallery_1920x1080_00-2580x1450-d1621922b8ebb2945e7528e2344aaf88034b5ba1.jpg" name="Opus Magnum" width="60%">
 
  - Professor Layton ( Point and click )
    - Level design idea
-<img src="https://i.jeuxactus.com/datas/jeux/p/r/professeur-layton-et-l-etrange-village/xl/professeur-layton-et-4e263786df203.jpg" name="Opus Magnum" width="60%">
+  <img src="https://i.jeuxactus.com/datas/jeux/p/r/professeur-layton-et-l-etrange-village/xl/professeur-layton-et-4e263786df203.jpg" name="Opus Magnum" width="60%">
 
 ### <u>**c. Plot and setting**</u>
 
@@ -72,7 +72,9 @@ You can click on npc to talk to them and get items or interact by click on them,
 When you enter the puzzle mode the screen change, you got one element to make with another part and no limit of time with some strange mechanism.
 To make new element you just need to merge parts with these mechanism.
 
-### <u>**c. walktrough**</u>
+### <u>****</u>
+
+### <u>**d. walktrough**</u>
 
 > Menu
  - Play ( Bring you to the game )
