@@ -46,6 +46,7 @@ The army of the cursed Chalzard almost killed all mankind.
 Rest of the humanity live in small underwater poor recluded town and sealed the entrance to block all opponent.
 
 Our story take place in the year 300 AP, we follow Gerard a young alchemist who want to discover the world and find how to save is world.
+![Gérard](https://cdn.discordapp.com/attachments/752474720263471147/778731704826986506/gerard.png)
 
 ## <u>**2. Gameplay**</u>
 
@@ -105,3 +106,7 @@ Our story take place in the year 300 AP, we follow Gerard a young alchemist who 
 - Unity
 - Photoshop
 - AseSprite
+
+### <u>b. Golden ticket</u>
+
+Play and share tones of incredible puzzles!
