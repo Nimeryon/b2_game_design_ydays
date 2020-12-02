@@ -1,10 +1,10 @@
 # **GDD**
 <u>**Dieupardeux**</u>
 
->- Pujol Esteban
+>- ~~Pujol Esteban~~
 >- Thomas Auriol
 >- ~~Sylvana Biais~~
->- ~~Valentin Perez~~
+>- Valentin Perez
 
 ## <u>**1. Instant summary**</u>
 
