@@ -23,30 +23,31 @@
 ### <u>**b. Look & feel**</u>
  - Opus Magnum ( Puzzles )
    - General idea of the puzzle feel
- ![Opus Magnum](https://steamah.com/wp-content/uploads/2020/02/nl05byjo4o801-1024x576.jpg)
+   <img src="https://steamah.com/wp-content/uploads/2020/02/nl05byjo4o801-1024x576.jpg" name="Opus Magnum" width="60%">
 
  - Hades ( AD )
    - Artistic direction for the game
- ![Hades](https://veuillezparlapresente.com/wp-content/uploads/2018/12/Diesel_product_min_gallery_Hades_Tartarus_Gallery_1920x1080_00-2580x1450-d1621922b8ebb2945e7528e2344aaf88034b5ba1.jpg)
+<img src="https://veuillezparlapresente.com/wp-content/uploads/2018/12/Diesel_product_min_gallery_Hades_Tartarus_Gallery_1920x1080_00-2580x1450-d1621922b8ebb2945e7528e2344aaf88034b5ba1.jpg" name="Opus Magnum" width="60%">
 
  - Professor Layton ( Point and click )
    - Level design idea
- ![Professor Layton](https://i.jeuxactus.com/datas/jeux/p/r/professeur-layton-et-l-etrange-village/xl/professeur-layton-et-4e263786df203.jpg)
+<img src="https://i.jeuxactus.com/datas/jeux/p/r/professeur-layton-et-l-etrange-village/xl/professeur-layton-et-4e263786df203.jpg" name="Opus Magnum" width="60%">
 
 ### <u>**c. Plot and setting**</u>
 
 During a battle against the infamous Chalzard, Poseidon protector of the ocean fainted.
-![Chalzard](https://static.wikia.nocookie.net/gameofthrones/images/6/60/H%26L_The_Old_Way.png/revision/latest/scale-to-width-down/1000?cb=20161118184241)
+<img src="https://static.wikia.nocookie.net/gameofthrones/images/6/60/H%26L_The_Old_Way.png/revision/latest/scale-to-width-down/1000?cb=20161118184241" name="Opus Magnum" width="60%">
 
 The diabolic Chalzard take is plan to execution, cover the world in water by sealing the sink of the world with a cursed cork.
-![Cursed Cork](https://i.ibb.co/PzpDh8k/cursed-cork-throne.png)
+
+<img src="https://i.ibb.co/PzpDh8k/cursed-cork-throne.png" name="Opus Magnum" width="60%">
 
 This terrible year got renamed the year 0 AP ( After Poseidon ) by the citizen of the world.
 The army of the cursed Chalzard almost killed all mankind.
 Rest of the humanity live in small underwater poor recluded town and sealed the entrance to block all opponent.
 
 Our story take place in the year 300 AP, we follow Gerard a young alchemist who want to discover the world and find how to save is world.
-![Gérard](https://cdn.discordapp.com/attachments/752474720263471147/778731704826986506/gerard.png)
+<img src="https://cdn.discordapp.com/attachments/752474720263471147/778731704826986506/gerard.png" name="Opus Magnum" width="60%">
 
 ## <u>**2. Gameplay**</u>
 
