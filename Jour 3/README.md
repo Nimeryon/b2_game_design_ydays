@@ -72,7 +72,26 @@ You can click on npc to talk to them and get items or interact by click on them,
 When you enter the puzzle mode the screen change, you got one element to make with another part and no limit of time with some strange mechanism.
 To make new element you just need to merge parts with these mechanism.
 
-### <u>****</u>
+### <u>**C.C.C.**</u>
+
+> Camera
+  - Point and click
+  - Puzzle : Top view
+
+> Control
+  - PC
+    - Mouse
+    - Keyboad for quick access to component in puzzle's
+
+  - Console
+    - Left Joystick to move the mouse and "A" to Interact
+    - Right joystick for quick access wheel
+
+> Character
+  - Move in the map
+  - Change map
+  - Interact with NPC's and Scenery
+  - Draw is alchemy circle on any surface to create a alchemy view ( Puzzle view )
 
 ### <u>**d. walktrough**</u>
 
