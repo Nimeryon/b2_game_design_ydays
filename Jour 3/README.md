@@ -3,7 +3,8 @@
 
 >- Pujol Esteban
 >- Thomas Auriol
->- Valentin Perez
+>- ~~Sylvana Biais~~
+>- ~~Valentin Perez~~
 
 ## <u>**1. Instant summary**</u>
 
