@@ -53,43 +53,41 @@ Our story take place in the year 300 AP, we follow Gerard a young alchemist who 
 
 ### <u>**a. user interface**</u>
 
-> Core Loops
- - Point and Click part :
-    - Show the name of the map your in
-    - On the bottom show your inventory
-    - Highlight objects when overed with mouse
-    - Can click on NPC's to talk with it
+When you are in exploration / point and click part of the game the user interface will be like that.
+On the top there is the name of the current map, your inventory (with key items) is on the bottom of the screen. 
 
- - Puzzle part :
-    - Boxes on the left with all the available component for the current puzzle
-    - Grid in the center to solve the puzzle on it
-    - On the bottom is the action bar for all the components and the different help menu
+In Puzzle mode the ui will change to this layout:
+On the left there is boxes with all the available component for the puzzle,
+The bottom is only for the action timeline  and some help like ints.
 
-### <u>**b. Developement**</u>
+The main part of the screen is a grid to solve the puzzle.
+There is every time a pause button in the top left corner of the screen.
 
-> Game Systems
- - Point and Click part :
-    - A background with all important part of the map colored in one color
-    - All important object for the map
-    - All NPC's and dialogue for this map
+### <u>**b. Game System**</u>
 
- - Puzzle part :
-    - list of all the available components
-    - menu to help the player
-    - No time limit
+When you are in exploration mode you see all important items and npc with the same coulour palette and they will be highlighted when overed by the mouse.
+
+You can click on npc to talk to them and get items or interact by click on them, when you encounter an alchemist table you can click on it like every item to go in puzzle mode.
+
+When you enter the puzzle mode the screen change, you got one element to make with another part and no limit of time with some strange mechanism.
+To make new element you just need to merge parts with these mechanism.
 
 ### <u>**c. walktrough**</u>
 
-> Objectives and Progression
- - Point and Click part :
-    - Find the right position for hidden objects
-    - Talk to NPC's by clicking on it
-    - Interact with the environment by clicking on it
-    - Find the right things to continue in the story
+> Menu
+ - Play ( Bring you to the game )
+ - Community ( Bring you to the community part where you can create and play other people puzzle's )
+ - Help ( Help page )
+ - Settings ( Settings page )
+ - Quit ( You know what it do )
 
- - Puzzle part :
-    - You got one part to make
-    - You place some component to solve it
+> Game
+
+In the point and click part you see a global wiew of the map you're in, you have your character and you can move it by clicking on the map. You can interact with your surrounding's, find some hidden objects, talk to NPC's, change map by clicking on the visible arrow on the side's of the screen.
+
+To move to the puzzle part you have to unlock some recipe's, for example a NPC is blocked by an iron door and he want's you to create a potion to disolve iron. The game bring you in the puzzle part, here you have on the left side of the screen the different's part allowed for this puzzle and the final element to create, to solve it you can place some of the piece's in the grid in the center of the sreen, after placing those element's you can create the algorithm to control the piece's the way you want automaticaly by the menu in the bottom of the screen. If you think your good you can test your project and see if it work's. You win if you create the desired element and loose if you don't.
+
+After winning you are moved to the point and click area and talk to think who give you the quest to unlock some futur element for more complex puzzle's or unlock some money or item's to help you in your quest of saving the world of the terrible Chalzard.
 
 ## <u>**3. Marketing**</u>
 
