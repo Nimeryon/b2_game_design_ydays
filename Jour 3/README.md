@@ -23,15 +23,15 @@
 ### <u>**b. Look & feel**</u>
  - Opus Magnum ( Puzzles )
    - General idea of the puzzle feel
-   <img src="https://steamah.com/wp-content/uploads/2020/02/nl05byjo4o801-1024x576.jpg" name="Opus Magnum" width="60%">
+    <img src="https://steamah.com/wp-content/uploads/2020/02/nl05byjo4o801-1024x576.jpg" name="Opus Magnum" width="60%">
 
  - Hades ( AD )
    - Artistic direction for the game
-  <img src="https://veuillezparlapresente.com/wp-content/uploads/2018/12/Diesel_product_min_gallery_Hades_Tartarus_Gallery_1920x1080_00-2580x1450-d1621922b8ebb2945e7528e2344aaf88034b5ba1.jpg" name="Opus Magnum" width="60%">
+    <img src="https://veuillezparlapresente.com/wp-content/uploads/2018/12/Diesel_product_min_gallery_Hades_Tartarus_Gallery_1920x1080_00-2580x1450-d1621922b8ebb2945e7528e2344aaf88034b5ba1.jpg" name="Opus Magnum" width="60%">
 
  - Professor Layton ( Point and click )
    - Level design idea
-  <img src="https://i.jeuxactus.com/datas/jeux/p/r/professeur-layton-et-l-etrange-village/xl/professeur-layton-et-4e263786df203.jpg" name="Opus Magnum" width="60%">
+    <img src="https://i.jeuxactus.com/datas/jeux/p/r/professeur-layton-et-l-etrange-village/xl/professeur-layton-et-4e263786df203.jpg" name="Opus Magnum" width="60%">
 
 ### <u>**c. Plot and setting**</u>
 
